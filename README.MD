@@ -1,11 +1,10 @@
-Installing Hypothesis with Vagrant
-##################################
+Hypothesis with Vagrant
+==================================
 
 Vagrant box for running Hypothesis
 
 Installation the VM
 --------------------
-.. code-block:: bash
 
     librarian-chef install
     vagrant up
